@@ -191,6 +191,11 @@ p {
     position: static;
     transform: rotate(0);
   }
+  
+  .nav-link {
+    text-align: right;
+  }
+  
   .iphone-image {
     margin-left: 0px;
   }
